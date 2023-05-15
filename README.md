@@ -9,4 +9,4 @@
 ## Документация?
 Такого нет, возможно когда нибудь будет, но сейчас нет. Точное нет.
 ## Автор
-[SetScript](https://github.com/setscript)
+* [SetScript](https://github.com/setscript)
